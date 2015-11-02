@@ -1,6 +1,6 @@
 <?php
 $mod_strings = array_merge($mod_strings,
-    array (
+    array(
         'LBL_RESCHEDULE' => 'Отложить звонок',
         'LBL_RESCHEDULE_COUNT' => 'Попыток дозвона',
         'LBL_RESCHEDULE_DATE' => 'Дата',

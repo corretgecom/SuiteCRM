@@ -1,11 +1,11 @@
 <?php 
- //WARNING: The contents of this file are auto-generated
+    //WARNING: The contents of this file are auto-generated
 
  
 $entry_point_registry['QuickCRMgetConfig'] = array(
-	'file' => 'custom/QuickCRM/getConfig.php',
-	    'auth' => false
-	);
+    'file' => 'custom/QuickCRM/getConfig.php',
+        'auth' => false
+    );
 
 
 /*********************************************************************************
@@ -47,11 +47,11 @@ $entry_point_registry['QuickCRMgetConfig'] = array(
  ********************************************************************************/
 
 
-$entry_point_registry['deleteAttachment'] = array('file' => 'include/SugarFields/Fields/Image/deleteAttachment.php' , 'auth' => '1');
+$entry_point_registry['deleteAttachment'] = array('file' => 'include/SugarFields/Fields/Image/deleteAttachment.php', 'auth' => '1');
 
 
-	$entry_point_registry['responseEntryPoint'] = array(
-	    'file' => 'modules/FP_events/responseEntryPoint.php',
-	'auth' => false
+    $entry_point_registry['responseEntryPoint'] = array(
+        'file' => 'modules/FP_events/responseEntryPoint.php',
+    'auth' => false
 );
 ?>

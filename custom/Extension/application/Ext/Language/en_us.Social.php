@@ -23,7 +23,7 @@
  * @author Salesagility Ltd <support@salesagility.com>
  */
 
-$mod_strings = array (
+$mod_strings = array(
     'TWITTER_USER_C' => 'Twitter User',
     'FACEBOOK_USER_C' => 'Facebook User',
 );

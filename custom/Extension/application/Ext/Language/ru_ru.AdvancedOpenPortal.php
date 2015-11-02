@@ -30,23 +30,23 @@ $app_list_strings['moduleList']['AOP_Case_Updates'] = 'Обновления об
 $app_strings['LBL_AOP_EMAIL_REPLY_DELIMITER'] = '========== Пожалуйста, пишите ответ выше этой линии ==========';
 
 $app_list_strings['case_state_dom'] =
-  array (
-      'Open' => 'Открыто',
-      'Closed' => 'Закрыто',
-  );
+    array (
+        'Open' => 'Открыто',
+        'Closed' => 'Закрыто',
+    );
 $app_list_strings['case_state_default_key'] = 'Open';
 $app_list_strings['case_status_default_key'] = 'Open_New';
 $app_list_strings['case_status_dom'] =
-  array (
-      'Open_New' => 'Новое',
-      'Open_Assigned' => 'Назначенное',
-      'Closed_Closed' => 'Закрытое',
-      'Open_Pending Input' => 'Ожидание решения',
-      'Closed_Rejected' => 'Отклонённое',
-      'Closed_Duplicate' => 'Продублированное',
-  );
+    array (
+        'Open_New' => 'Новое',
+        'Open_Assigned' => 'Назначенное',
+        'Closed_Closed' => 'Закрытое',
+        'Open_Pending Input' => 'Ожидание решения',
+        'Closed_Rejected' => 'Отклонённое',
+        'Closed_Duplicate' => 'Продублированное',
+    );
   
-  $app_list_strings['contact_portal_user_type_dom'] =
+    $app_list_strings['contact_portal_user_type_dom'] =
     array (
         'Single' => 'Указанный пользователь',
         'Account' => 'Учётная запись пользователя',

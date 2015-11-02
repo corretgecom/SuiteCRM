@@ -226,7 +226,7 @@ $app_list_strings['marker_image_list']['speed_20'] = 'Speed 20';
 $app_list_strings['marker_image_list']['speed_30'] = 'Speed 30';
 $app_list_strings['marker_image_list']['speed_40'] = 'Speed 40';
 $app_list_strings['marker_image_list']['speed_50'] = 'Speed 50';
-$app_list_strings['marker_image_list']['speed_60'] = 'Speed 60';$app_list_strings['marker_image_list']['accident'] = 'Accident';
+$app_list_strings['marker_image_list']['speed_60'] = 'Speed 60'; $app_list_strings['marker_image_list']['accident'] = 'Accident';
 $app_list_strings['marker_image_list']['administration'] = 'Administration';
 $app_list_strings['marker_image_list']['agriculture'] = 'Agriculture';
 $app_list_strings['marker_image_list']['aircraft_small'] = 'Aircraft Small';

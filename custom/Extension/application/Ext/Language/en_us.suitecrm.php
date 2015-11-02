@@ -42,4 +42,4 @@ $app_strings['LBL_RENAME_DASHBOARD_PAGE'] = 'Rename Dashboard Page';
 
 $app_strings['LBL_DISCOVER_SUITECRM'] = 'Discover SuiteCRM';
 
-$app_list_strings['collection_temp_list'] = array ( 'Tasks' => 'Tasks', 'Meetings' => 'Meetings', 'Calls' => 'Calls', 'Notes' => 'Notes', 'Emails' => 'Emails' );
+$app_list_strings['collection_temp_list'] = array('Tasks' => 'Tasks', 'Meetings' => 'Meetings', 'Calls' => 'Calls', 'Notes' => 'Notes', 'Emails' => 'Emails');

@@ -46,5 +46,5 @@ $mod_strings['LBL_AOP_OPENING_HOURS'] = 'Horas Apertura';
 $mod_strings['LBL_AOP_CLOSING_HOURS'] = 'Horas Cierre';
 $mod_strings['LBL_SUPPORT_FROM_ADDRESS'] = 'Dirección Remitente de Soporte';
 $mod_strings['LBL_SUPPORT_FROM_NAME'] = 'Nombre Remitente de Soporte';
-$mod_strings['LBL_CREATE_EMAIL_TEMPLATE']  = 'Crear';
+$mod_strings['LBL_CREATE_EMAIL_TEMPLATE'] = 'Crear';
 $mod_strings['LBL_EDIT_EMAIL_TEMPLATE']  = 'Editar';
