@@ -7,9 +7,9 @@
 
 
 $layout_defs["ProjectTask"]["subpanel_setup"]["history"]['searchdefs'] =
-array (
+array(
     'collection' =>
-        array (
+        array(
             'name' => 'collection',
             'label' => 'LBL_COLLECTION_TYPE',
             'type' => 'enum',
@@ -18,13 +18,13 @@ array (
             'width' => '10%',
         ),
     'name' =>
-        array (
+        array(
             'name' => 'name',
             'default' => true,
             'width' => '10%',
         ),
     'current_user_only' =>
-        array (
+        array(
             'name' => 'current_user_only',
             'label' => 'LBL_CURRENT_USER_FILTER',
             'type' => 'bool',
@@ -32,7 +32,7 @@ array (
             'width' => '10%',
         ),
     'date_modified' =>
-        array (
+        array(
             'name' => 'date_modified',
             'default' => true,
             'width' => '10%',

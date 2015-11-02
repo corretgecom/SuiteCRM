@@ -23,10 +23,10 @@
  * @author Salesagility Ltd <support@salesagility.com>
  */
 
- $mod_strings = array (
+    $mod_strings = array (
     'TWITTER_USER_C' => 'Учётная запись в Twitter',
     'FACEBOOK_USER_C' => 'Учётная запись в Facebook',
- );
+    );
 
 $app_list_strings['call_reschedule_dom'][''] = '';
 $app_list_strings['call_reschedule_dom']['Out of Office'] = 'Сотрудник отсутствует';

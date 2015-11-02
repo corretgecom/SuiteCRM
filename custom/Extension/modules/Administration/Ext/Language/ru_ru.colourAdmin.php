@@ -10,7 +10,7 @@ $mod_strings['LBL_COLOUR_SETTINGS'] = 'Настройка темы';
 $mod_strings['LBL_COLOUR_DESC'] = 'Настройка цветовой схемы и параметров темы';
 $mod_strings['LBL_COLOUR_ADMIN_INTRO'] = 'Настройка цветовой схемы и параметров темы.'.' <strong>Обратите внимание:</strong> Для отображения сохранённых изменений рекомендуется обновить страницу сочетанием клавиш Ctrl + F5.';
 
-$mod_strings['LBL_COLOUR_ADMIN_CUSTOM'] = 'Custom code config';///
+$mod_strings['LBL_COLOUR_ADMIN_CUSTOM'] = 'Custom code config'; ///
 $mod_strings['LBL_COLOUR_ADMIN_MENU'] = 'Настройка цветовой схемы меню';
 $mod_strings['LBL_COLOUR_ADMIN_PAGE'] = 'Настройка цветовой схемы страниц';
 $mod_strings['LBL_COLOUR_ADMIN_PAGEHEADER'] = 'Цвет заголовков на странице';

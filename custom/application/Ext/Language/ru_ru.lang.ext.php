@@ -1,5 +1,5 @@
 <?php 
- //WARNING: The contents of this file are auto-generated
+    //WARNING: The contents of this file are auto-generated
 
 
 /*********************************************************************************
@@ -374,23 +374,23 @@ $app_list_strings['moduleList']['AOP_Case_Updates'] = 'Обновления об
 $app_strings['LBL_AOP_EMAIL_REPLY_DELIMITER'] = '========== Пожалуйста, пишите ответ выше этой линии ==========';
 
 $app_list_strings['case_state_dom'] =
-  array (
-      'Open' => 'Открыто',
-      'Closed' => 'Закрыто',
-  );
+    array (
+        'Open' => 'Открыто',
+        'Closed' => 'Закрыто',
+    );
 $app_list_strings['case_state_default_key'] = 'Open';
 $app_list_strings['case_status_default_key'] = 'Open_New';
 $app_list_strings['case_status_dom'] =
-  array (
-      'Open_New' => 'Новое',
-      'Open_Assigned' => 'Назначенное',
-      'Closed_Closed' => 'Закрытое',
-      'Open_Pending Input' => 'Ожидание решения',
-      'Closed_Rejected' => 'Отклонённое',
-      'Closed_Duplicate' => 'Продублированное',
-  );
+    array (
+        'Open_New' => 'Новое',
+        'Open_Assigned' => 'Назначенное',
+        'Closed_Closed' => 'Закрытое',
+        'Open_Pending Input' => 'Ожидание решения',
+        'Closed_Rejected' => 'Отклонённое',
+        'Closed_Duplicate' => 'Продублированное',
+    );
   
-  $app_list_strings['contact_portal_user_type_dom'] =
+    $app_list_strings['contact_portal_user_type_dom'] =
     array (
         'Single' => 'Указанный пользователь',
         'Account' => 'Учётная запись пользователя',
@@ -670,7 +670,7 @@ $app_list_strings['aow_run_on_list']['Modified_Records'] = 'Изменяемых
  * @author Salesagility Ltd <support@salesagility.com>
  */
 
-$mod_strings = array (
+$mod_strings = array(
     'TWITTER_USER_C' => 'Учётная запись в Twitter',
     'FACEBOOK_USER_C' => 'Учётная запись в Facebook',
 );
@@ -767,10 +767,10 @@ $app_strings['LBL_LISTVIEW_NONE'] = 'Отменить выбор';
  * @author Salesagility Ltd <support@salesagility.com>
  */
 
- $mod_strings = array (
+    $mod_strings = array (
     'TWITTER_USER_C' => 'Учётная запись в Twitter',
     'FACEBOOK_USER_C' => 'Учётная запись в Facebook',
- );
+    );
 
 $app_list_strings['call_reschedule_dom'][''] = '';
 $app_list_strings['call_reschedule_dom']['Out of Office'] = 'Сотрудник отсутствует';
@@ -938,6 +938,6 @@ $app_strings['LBL_ADD_DASHBOARD_PAGE'] = 'Добавление новой стр
 $app_strings['LBL_DELETE_DASHBOARD_PAGE'] = 'Удаление текущей страницы с закладки ГЛАВНАЯ';
 $app_strings['LBL_RENAME_DASHBOARD_PAGE'] = 'Переименование страницы';
 
-$app_list_strings['collection_temp_list'] = array ( 'Tasks' => 'Задачи', 'Meetings' => 'Встречи', 'Calls' => 'Звонки', 'Notes' => 'Заметки', 'Emails' => 'E-mail' );
+$app_list_strings['collection_temp_list'] = array('Tasks' => 'Задачи', 'Meetings' => 'Встречи', 'Calls' => 'Звонки', 'Notes' => 'Заметки', 'Emails' => 'E-mail');
 
 ?>

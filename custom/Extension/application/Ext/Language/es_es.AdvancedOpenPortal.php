@@ -30,18 +30,18 @@ $app_list_strings['moduleList']['AOP_Case_Updates'] = 'Actualizaciones de Casos'
 $app_strings['LBL_AOP_EMAIL_REPLY_DELIMITER'] = '========== Por favor responda por encima de esta linea ==========';
 
 $app_list_strings['case_state_dom'] =
-  array (
-      'Open' => 'Abierto',
-      'Closed' => 'Cerrado',
-  );
+    array (
+        'Open' => 'Abierto',
+        'Closed' => 'Cerrado',
+    );
 $app_list_strings['case_state_default_key'] = 'Open';
 $app_list_strings['case_status_default_key'] = 'Open_New';
 $app_list_strings['case_status_dom'] =
-  array (
-      'Open_New' => 'Nuevo',
-      'Open_Assigned' => 'Asignado',
-      'Closed_Closed' => 'Cerrado',
-      'Open_Pending Input' => 'Pendiente de Información',
-      'Closed_Rejected' => 'Rechazado',
-      'Closed_Duplicate' => 'Duplicado',
-  );
+    array (
+        'Open_New' => 'Nuevo',
+        'Open_Assigned' => 'Asignado',
+        'Closed_Closed' => 'Cerrado',
+        'Open_Pending Input' => 'Pendiente de Información',
+        'Closed_Rejected' => 'Rechazado',
+        'Closed_Duplicate' => 'Duplicado',
+    );
